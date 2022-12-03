@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMNewsApp</string>
+    <string name="breaking_news_fragment_title">Breaking News</string>
+</resources>
